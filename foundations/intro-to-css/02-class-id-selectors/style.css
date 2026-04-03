@@ -1,18 +1,13 @@
 /* Add CSS Styling */
-.parent1{
+.parent{
     background-color:rgb(242, 166, 168);    
     font-family:Verdana,DejaVu Sans,sans-serif;
     
 
 }
 
-.parent2{
-    background-color:rgb(242, 166, 168);    
-    font-family:Verdana, DejaVu Sans, Tahoma, sans-serif;
 
-}
-
-.parent1.parent2{
+.add-font-size{
     font-size:24px;
 }
 #unique1{
